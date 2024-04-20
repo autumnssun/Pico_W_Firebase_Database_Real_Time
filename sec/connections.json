@@ -1,0 +1,4 @@
+{
+  "socketUrl": "REPLACE YOUR FIREBASE SOCKET URL",
+  "fbKey": "REPLACE WITH YOUR FIREBASE Key"
+}
